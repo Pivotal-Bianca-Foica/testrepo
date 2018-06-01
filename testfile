@@ -1,7 +1,11 @@
 HI I'm new here and this is a new file.
 
+<<<<<<< HEAD
 This is my second commit to this project
 THIS SHOULD CAUSE A CONFLICT
+=======
+This is my second commit to this project HNNFFFNNN aanother conflict 
+>>>>>>> efcea5170e683e843841486d7f5d08512db5e4d7
 
 this is my THIRD AND FOURTH commits (i've added a file)
 
